@@ -1,5 +1,5 @@
 <template>
-  <p>根组件1</p>
+  
 </template>
 
 <script>
